@@ -1,6 +1,6 @@
 # Image_Identifiers
 
-A comparison of three image identifier models: **TensorFlow**, **Torchvision**, and **YOLO**.
+A comparison of three image classifier model trainers: **TensorFlow**, **Torchvision**, and **YOLO**.
 Uses GPU to train models if available.
 
 ---
